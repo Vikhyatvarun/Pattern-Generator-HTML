@@ -5,9 +5,7 @@ This Program make a Unique Patter bu using Seed randomeness. You can cutomize yo
 
 Make your own unique pattern by using this pattern generator direct from your browser
 
-Link 🔗-https://vikhyatvarun.github.io/Patter-Generator-HTML
-
-
+Link 🔗- https://vikhyatvarun.github.io/Pattern-Generator-HTML
 
 Or use this Python Program exe file for windows
 
